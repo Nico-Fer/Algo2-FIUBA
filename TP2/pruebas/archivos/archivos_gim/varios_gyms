@@ -1,0 +1,31 @@
+G;Gimnasio de Ciudad Celeste; 15; 3
+L;Misty
+P;Staryu; 50; 40; 50
+P;Starmie; 90; 50; 60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+G;Gimnasio de Ciudad Algo 2; 3; 5
+L;Mendez
+P;Slowpoke;15;27;35
+P;Abra;47;20;15
+E;Manu
+P;Bulbasaur;45;49;49
+E;Lucas
+P;Pikachu;46;55;40
+P;Plusle;54;50;40
+G;Gimnasio de Ciudad Nueva; 20; 1
+L;Misty
+P;Psyduck;55;52;48
+P;Golduck;56;48;60
+P;Mankey;57;28;35
+P;Primeape;49;63;60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Magneton;40;60;33
+P;Farfetch'd;60;32;55
+P;Doduo;63;61;45
+P;Dodrio;60;55;14
